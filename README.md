@@ -1,6 +1,6 @@
-# Project Title (This is a template README.md file that you can adapt to your project)
+# Project Title: A Comparison of Rainfall Between Seattle, WA and Grand Rapids, MI
 
-> A brief description of what the project does and its purpose.
+> This project will use publicly available data to compare the amount of rainfall between Seattle and Grand Rapids.
 
 ---
 
