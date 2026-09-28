@@ -28,7 +28,7 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ## Data
 
-- **Source:** Link to the data source(s) 
+- **Source:** [data](seattle_rain.csv) [data](grandrapids_rain.csv)
 - **Description:** Brief overview of the dataset features, size, and format
 - **License:** (if applicable)
 
