@@ -28,8 +28,8 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ## Data
 
-- **Source:** [weather](data/seattle_rain.csv)
-- **Description:** Brief overview of the dataset features, size, and format
+- **Source:** [Seattle Rain](data/seattle_rain.csv) [Grand Rapids Rain](data/grandrapids_rain.csv)
+- **Description:** Data containing precipitation values in Seattle and Grand Rapids
 - **License:** (if applicable)
 
 ---
