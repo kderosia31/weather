@@ -28,22 +28,21 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ## Data
 
-- **Source:** Link to the data source(s) 
-- **Description:** Brief overview of the dataset features, size, and format
+- **Source:** [Seattle Rain](data/seattle_rain.csv) [Grand Rapids Rain](data/grandrapids_rain.csv)
+- **Description:** Data containing precipitation values in Seattle and Grand Rapids
 - **License:** (if applicable)
 
 ---
 
 ## Analysis
 
-Describe the notebooks and/or scripts used to perform the analysis. Specify the order in which the code should be run to reproduce the results.
+Data from each city was first checked to ensure that the same date ranges were being compared between cities. Then, missing values were imputed by finding the average rainfall on each day for each city, then filling the missing data with the corresponding average rainfall. Finally, boxplots were created to visually compare rainfall between the two cities. The notebook that does the analysis is titled Weather_data.ipynb. The clean data file is called "clean_seattle_grandrapids.csv"
 
 ---
 
 ## Results
 
-Include a short discussion of the findings and what they imply.
-
+Seattle has more rain than grand rapids
 ---
 
 ## Authors
