@@ -6,11 +6,11 @@
 
 ## Project Overview
 
-Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
+This project uses publicly available data to determine if Seattle, WA or Grand Rapids, MI gets more precipitation. The data is from the NAOO weather stations. It was determined that Seattle receives more precipitation.
 
-- **Objective:** Clearly state the main goal of the project.
-- **Domain:** (e.g., Healthcare, Finance, E-commerce, etc.)
-- **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
+- **Objective:** determine which city rains more: Seattle or Grand Rapids
+- **Domain:** Weather
+- **Key Techniques:** Visualizations
 
 ---
 
@@ -47,7 +47,7 @@ Seattle has more rain than grand rapids
 
 ## Authors
 
-- Your Name - [@yourhandle](https://github.com/yourhandle)
+- Kyle DeRosia
 
 ---
 
